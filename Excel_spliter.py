@@ -16,7 +16,7 @@ def split_excel_file(file_path):
     return data
 
 # Provide the path to the Excel file
-file_path = 'WORK SHOP CERTIFICATE.xlsx'
+file_path = 'WORK SHOP.xlsx'
 
 # Split the Excel file into rows and columns
 result = split_excel_file(file_path)
